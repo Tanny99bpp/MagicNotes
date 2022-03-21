@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+#particles-js {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background: rgb(223, 209, 209);
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+h1 {
+  position: relative;
+}
